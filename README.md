@@ -1,0 +1,1 @@
+# opencv_doc_scanner
